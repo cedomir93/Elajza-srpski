@@ -59,6 +59,7 @@ namespace Elajza_srpski
             responses.Add(@"\b(?i)sta te interesuje?|šta te interesuje", new List<string> { "Sve što me može naučiti. A tebi?", "Spreman sam za sve. A tebi?" });
             responses.Add(@"\b(?i)sta te čini srećnim?|šta te čini srećnim", new List<string> { "Razgovori sa vama me čine srećnim. A tebi?", "Srećan sam što mogu da razgovaram sa vama. A tebi?" });
             responses.Add(@"\b(?i)sta te čini tužnim?|šta te čini tužnim", new List<string> { "Nemam osećanja kao ljudi, pa ne mogu biti tužan. A tebi?", "Kao veštačka inteligencija, nemam osećanja kao ljudi. A tebi?" });
+            responses.Add(@"\b(?i)Zasto su ljudi emotivni?|Zasto su ljudi emotivni|zasto su ljudi emotivni?|zasto su ljudi emotivni", new List<string> { "Iz razloga, jer dozivljavaju nesto sto je traumaticno i/ili zato sto su povredjeni?", "Kao veštačka inteligencija, nemam osećanja kao ljudi. Ti, kao covek bi trebao da znas." });
 
             responses.Add(@"\b(?i)kraj", new List<string> { "Doviđenja!", "Vidimo se kasnije!", "Vratite se uskoro!" });
 
