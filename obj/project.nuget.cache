@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DZQDLYMv4E5qzI8jYajNTdOJPHV9zl1NcFwRLMeRb8VI0buQQq+DYH6qmdqkXr11w3D4vyYMyi+/P/sKEAKrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cedomir\\source\\repos\\Elajza-srpski\\Elajza-srpski\\Elajza-srpski.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cedomir\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\Cedomir\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Cedomir\\.nuget\\packages\\microsoft.sourcelink.github\\8.0.0\\microsoft.sourcelink.github.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

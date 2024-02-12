@@ -1,0 +1,16 @@
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\bin\Debug\net5.0\Elajza-srpski.exe
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\bin\Debug\net5.0\Elajza-srpski.deps.json
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\bin\Debug\net5.0\Elajza-srpski.runtimeconfig.json
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\bin\Debug\net5.0\Elajza-srpski.runtimeconfig.dev.json
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\bin\Debug\net5.0\Elajza-srpski.dll
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\bin\Debug\net5.0\ref\Elajza-srpski.dll
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\bin\Debug\net5.0\Elajza-srpski.pdb
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\Elajza-srpski.csprojAssemblyReference.cache
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\Elajza-srpski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\Elajza-srpski.AssemblyInfoInputs.cache
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\Elajza-srpski.AssemblyInfo.cs
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\Elajza-srpski.csproj.CoreCompileInputs.cache
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\Elajza-srpski.dll
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\ref\Elajza-srpski.dll
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\Elajza-srpski.pdb
+C:\Users\Cedomir\source\repos\Elajza-srpski\Elajza-srpski\obj\Debug\net5.0\Elajza-srpski.genruntimeconfig.cache
